@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GitHub Profile Analyzer
 
 A minimal React app for analyzing GitHub user profiles.
@@ -94,3 +95,6 @@ Language statistics are derived from each repository's primary `language` field 
 ## License
 
 MIT
+=======
+# GitHub-Profile-Analyzer
+>>>>>>> 4307c282a867ae79d1bd5dc335456714f98b3ef0
